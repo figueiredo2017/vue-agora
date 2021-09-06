@@ -1,0 +1,24 @@
+{
+  "name": "vue-agora",
+  "version": "1.0.0",
+  "description": "Agora RTC SDK Wrapper For Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/figueiredoluiz/vue-agora.git"
+  },
+  "keywords": [
+    "agora",
+    "webrtc",
+    "vue.js"
+  ],
+  "author": "Luiz Figueiredo <lffigueiredo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/figueiredoluiz/vue-agora/issues"
+  },
+  "homepage": "https://github.com/figueiredoluiz/vue-agora#readme"
+}
